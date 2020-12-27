@@ -1,1 +1,1 @@
-worker: python create_model.py
+worker: python bot.py
